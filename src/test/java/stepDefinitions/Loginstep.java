@@ -14,7 +14,7 @@ public class Loginstep {
 	@When("user entered crn")
 	public void user_entered_crn() {
 	    // Write code here that turns the phrase above into concrete actions
-		System.out.println("Hi");
+		System.out.println("Hi crn entered");
 	   
 	}
 	
