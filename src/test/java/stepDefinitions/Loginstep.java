@@ -14,20 +14,21 @@ public class Loginstep {
 	@When("user entered crn")
 	public void user_entered_crn() {
 	    // Write code here that turns the phrase above into concrete actions
-		System.out.println("Hi");
+		System.out.println("Hi crn entered");
+		System.out.println("This is for the commit");
 	   
 	}
 	
 
 	@And("user enters mpin")
 	public void user_enters_mpin() {
-		System.out.println("Hi");
+		System.out.println("Hi this is not how i wanted");
 	    // Write code here that turns the phrase above into concrete actions
 	    	}
 
 	@Then("able to do successful login")
 	public void able_to_do_successful_login() {
-		System.out.println("Hi");
+		System.out.println("Hi check");
 	  
 	}
 
